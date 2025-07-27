@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-27T12:03:19.273802"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Water Activities",
+      "importance_rank": 3,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Comfortable Wear:",
+      "importance_rank": 4,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Roll Your Clothes:",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Local Experiences",
+      "importance_rank": 6,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Multi-Purpose Shoes:",
+      "importance_rank": 7,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Basic Toiletries:",
+      "importance_rank": 8,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Châteauneuf-du-Pape",
+      "importance_rank": 9,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "adapter if needed.",
+      "importance_rank": 10,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "importance_rank": 11,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "and smaller towns.",
+      "importance_rank": 12,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Diapers and Wipes:",
+      "importance_rank": 13,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "importance_rank": 14,
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Best Time to Visit",
+      "importance_rank": 15,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• \nAccessories: A scarf, sunglasses for sunny winter days, and a travel-sized hand \nwarmer.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Bring a travel",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "• \nDordogne River: Enjoy a leisurely canoe trip, passing by medieval castles and",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• \nSwimwear: Swimsuits and cover-ups for beach or pool days.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "g\n• \nTravel-Sized Toiletries: Bring travel-sized toiletries to save space and comply with \nairline regulations.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "• \nBoat Trip to the Calanques: Take a boat trip to the Calanques, a series of stunning \nlimestone cliﬀs and coves along the coast.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• \nTravel Pillow and Blanket: A compact travel pillow and blanket can make long flights \nor train rides more comfortable.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• \nMakeup: Pack essentials in a travel-sized makeup bag.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "• \nBordeaux: Take a day trip to the world-renowned wine region and visit its prestigious \nchâteaux.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• \nBooks and Entertainment: A book, e-reader, or tablet for entertainment during \ntravel.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "g\ndays.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Learning a few basic French phrases can enhance your travel experience.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "g\n• \nSnacks: Bring a variety of snacks for travel and outings.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Consider packing a travel potty for young children.",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "h\ng\ng\nto June) and fall (September to October) when the weather is pleasant, and the tourist",
+      "page_number": 1
+    }
+  ]
+}
